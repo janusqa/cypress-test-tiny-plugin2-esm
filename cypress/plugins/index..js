@@ -14,8 +14,7 @@
 const BlinkDiff = require('blink-diff');
 // const utils = require('../custom/utils')
 
-//module.exports = (on, config) => {
-export default (on, config) => {
+module.exports = (on, config) => {
   // `on` is used to hook into various events Cypress emits
   // `config` is the resolved Cypress config
 
