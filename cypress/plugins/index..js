@@ -11,7 +11,7 @@
 // This function is called when a project is opened or re-opened (e.g. due to
 // the project's config changing)
 
-const BlinkDiff = require('blink-diff');
+// const BlinkDiff = require('blink-diff');
 // const utils = require('../custom/utils')
 
 module.exports = (on, config) => {
